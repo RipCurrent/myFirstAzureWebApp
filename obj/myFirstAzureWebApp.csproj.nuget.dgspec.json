@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\212424998\\source\\repos\\myFirstAzureWebApp\\myFirstAzureWebApp\\myFirstAzureWebApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\212424998\\source\\repos\\myFirstAzureWebApp\\myFirstAzureWebApp\\myFirstAzureWebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\212424998\\source\\repos\\myFirstAzureWebApp\\myFirstAzureWebApp\\myFirstAzureWebApp.csproj",
+        "projectName": "myFirstAzureWebApp",
+        "projectPath": "C:\\Users\\212424998\\source\\repos\\myFirstAzureWebApp\\myFirstAzureWebApp\\myFirstAzureWebApp.csproj",
+        "packagesPath": "C:\\Users\\212424998\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\212424998\\source\\repos\\myFirstAzureWebApp\\myFirstAzureWebApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\212424998\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://api.nuget.org/v3/index.json": {},
+          "http://tfs.cas.comfin.ge.com/tfs/DefaultCollection/_packaging/nuget.gecas/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100-preview8-013656\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
